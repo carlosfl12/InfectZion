@@ -1,5 +1,4 @@
 # InfectZion
-<<<<<<< adria-vidal-patch-1
 # Desarrollo del Videojuego con C# en Unity
 
 Este repositorio contiene el desarrollo de un emocionante videojuego realizado con C# en Unity. El objetivo principal del proyecto es proporcionar una experiencia de juego inmersiva y entretenida para los jugadores.
